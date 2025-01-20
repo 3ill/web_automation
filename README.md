@@ -7,7 +7,7 @@
 ### Requirements
 - `node`
 - `typescript`
-- `puppeteer
+- `puppeteer`
 
 
 ### Installing Puppeteer
